@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+    <html>
+
+        <head>
+
+            <meta charset="utf-8">
+            <title>Casa do terror</title>
+            <link rel="stylesheet" type="text/css" href="meuEstilo.css">
+            <link rel="stylesheet" href="estilocss" media="screen and (color" />
+        </head>
+
+        <body>
+            <div id="container">
+                <div id="header" title="Terror da Hora">
+                    <div id="skipmenu"><a href="#content">Cinema</a></div>
+                    <h1> Cinemark </h1>
+                </div>
+                <div id="mainnav">
+                    <ul>
+                        <li><a href="#"><b>Em cartaz</b> </a></li>
+                        <li><a href="#"><b>Em breve</b></a></li>
+                        <li><a href="#"><b>Ingresso </b> </a></li>
+                        <li><a href="#"><b>Programação</b></a></li>
+                    </ul>
+                </div>
+                <div id="menu">
+                    <h3>Filmes em Cartaz </h3>
+                    <ul>
+                        <li><a href="#">A Cinco passos de voce </a></li>
+                        <li><a href="#">Chorar de rir </a></li>
+                        <li><a href="#">Nós</a></li>
+                        <li><a href="#">Capitão Marvel </a></li>
+                        <li><a href="#">O Parque dos Sonhos</a></li>
+                    </ul>
+                    <h3>Ultimas Novidades</h3>
+                    <ul>
+                        <li><a href="#">Cinema Mania </a></li>
+                        <li><a href="#">Barato de Cinema</a></li>
+                        <li><a href="#">Vivo valoriza</a></li>
+                        <li><a href="#">Salas XD</a></li>
+                    </ul>
+                </div>
+                <div id="contents">
+                    <div class="blogentry">
+                        <h2>
+                            <a href="#" title="Permanent link to this item">Clique aqui </a>
+                        </h2>
+                        <h3>Capitã Marvel: Primeiras reações da crítica exaltam Brien Larson e Goose, o gato</h3>
+                        <h4> Por Laysa Zanetti - 20/02/2019 àss 11:15 <h4><br>
+                                <p><img class="imagefloat" src="capita.jpg" alt="" width="100" height="100" border="0">
+                                    Já temos as primeiras reações a Capitã Marvel, e a notícia é boa para os mais ansiosos: aparentemente, a aventura agradou.
+
+                                    Parte da imprensa norte-americana já assistiu ao próximo filme da Marvel, protagonizado por Brie Larson como Carol Danvers. Trata-se da primeira aventura do Universo Cinematográfico idealizado por Kevin Feige protagonizada por uma mulher, e leva a história dos heróis para a década de 1990.
+
+                                    Dirigido por Anna Boden e Ryan Fleck, o filme tem no elenco também Ben Mendelsohn, Samuel L. Jackson, Jude Law e Clark Gregg, e acompanha a jornada de descoberta da heroína, que volta à Terra para lutar contra a invasão do exército dos Skrull. Carol Danvers retornará em Vingadores: Ultimato, que estreia em abril.
+
+                                    Por enquanto, a imprensa foi autorizada apenas a fazer breves comentários nas redes sociais a respeito do que acharam do filme. Uma análise geral mostra que há duas unanimidades: Ben Mendelsohn é maravilhoso e Goose, o gato, seu novo personagem favorito.
+
+                                    Steven Weintraub, do Collider:
+
+                                    "Capitã Marvel é uma adição muito bem-vinda ao UCM. O filme é muito bem feito com ótimos momentos. Ben Mendelsohn rouba quase todas as cenas em que ele está. Brie Larson literalmente brilha no papel. Estou muito pronto para Vingadores: Ultimato."
+
+                                    Perri Nemiroff, do Collider:
+
+                                    "O futuro do UCM é ainda mais brilhante com a adição de Capitã Marvel à mistura. Me apaixonei pela petulância de Brie Larson, força e energia no papel. A mesma coisa com Lashana Lynch. Bem Mendeolsohn está nota dez com Talos. E sim, Goose rouba cenas. Já quero ver de novo."
+
+                                    Devan Coggan, da EW:
+
+                                    "Capitã Marvel é pura alegria. Ansiosa para uma geração de garotinhas crescer com Carol Danvers como uma heroína. E em 'novidades' esse filme é muito feito para mim. Eu morreria por Goose, o gato."
+
+                                    Eric Eisenberg, do Cinema Blend:
+
+                                    "Capitã Marvel é um estouro. Tem algumas surpresas muito legais pelas quais eu não estava esperando, e o mistério/origem que traz é engajante e divertido. Brie Larson é maravilhosa, e dá um primeiro passo fantástico no UCM. Ah, sim, Goose é um brilhante rouba-cenas."
+                                </p>
+
+                                <ul>
+                                    <li><a href="#">Comentarios (10)</a></li>
+                                </ul>
+                    </div>
+                </div>
+                <div id="footer">
+                </div>
+            </div>
+        </body>
+
+    </html>
